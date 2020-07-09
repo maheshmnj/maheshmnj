@@ -1,6 +1,6 @@
 ## About Me
 
-### Hi there 👋,I am Mahesh, I am a software developer💻,I build mobile📱 apps using Flutter.I love to build tools🛠️ for productivity and work on stuffs that really matters.
+### Hi there 👋,I am Mahesh, I am a software developer💻, I build mobile📱 apps using Flutter.I love to build tools🛠️ for productivity and work on stuffs that really matters.
 
 
 ## Languages and Technologies
@@ -12,8 +12,8 @@
 - Testing: unit tests,integration tests,widget tests,BDD
 
 ## Interests
-#### I Love to
 
+#### I Love to
 - explore different technologies👨‍💻
 - read Self Help books📚
 - help People on stackoverflow
@@ -21,17 +21,19 @@
 
 
 
+
 ## Online Presence
  - [Github](https://github.com/maheshmnj) 
  - [StackOverflow](https://stackoverflow.com/users/8253662/maheshmnj)
+ - [LinkedIn](https://linkedin.com/in/maheshjamdade)
  - [Twitter](https://twitter.com/maheshmnj)
  - [Medium](https://medium.com/@maheshmnj)
  - [Quora](https://www.quora.com/profile/Mahesh-Jamdade-4)
 
+## Lets Connect
+   Connect with me on social platforms or drop me an [Email](maheshmn121@gmail.com) 
 
-connect with me on social platforms or drop me an [email](mailto: maheshmn121@gmail.com) 
 
-  
  
 
 <!--
