@@ -3,6 +3,10 @@
 ### Hi there 👋,I am Mahesh, I am a software developer💻, I build mobile📱 apps using Flutter.I love to build tools🛠️ for productivity and work on stuffs that really matters.
 
 
+<a href="https://github.com/maheshmnj/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maheshmnj&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mahesh's GitHub Stats" />
+</a> 
+
 ## Languages and Technologies
 - Programming Languages - dart,Javascript,Python,C++
 - Operating Systems - Linux, Windows, Mac OS, Android
@@ -19,21 +23,13 @@
 - help People on stackoverflow
 - share my knowledge by writing blogs on Medium
 
-
-
-
 ## Online Presence
  - [Github](https://github.com/maheshmnj) 
  - [StackOverflow](https://stackoverflow.com/users/8253662/maheshmnj)
- - [LinkedIn](https://linkedin.com/in/maheshjamdade)
  - [Twitter](https://twitter.com/maheshmnj)
- - [Medium](https://medium.com/@maheshmnj)
- - [Quora](https://www.quora.com/profile/Mahesh-Jamdade-4)
 
-## Lets Connect
-   Connect with me on social platforms or drop me an [Email](maheshmn121@gmail.com) 
-
-
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
  
 
 <!--
