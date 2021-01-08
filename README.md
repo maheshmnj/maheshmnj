@@ -24,9 +24,10 @@
 - share my knowledge by writing blogs on Medium
 
 ## Online Presence
- - [Github](https://github.com/maheshmnj) 
- - [StackOverflow](https://stackoverflow.com/users/8253662/maheshmnj)
- - [Twitter](https://twitter.com/maheshmnj)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/maheshmnj?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)](https://twitter.com/maheshmnj)
+[![GitHub followers](https://img.shields.io/github/followers/maheshmnj?logo=GitHub&style=for-the-badge)](https://github.com/maheshmnj)
+[![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/8253662?order=desc&sort=reputation&site=stackoverflow?style=plastic)](https://stackoverflow.com/users/8253662/maheshmnj)
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
