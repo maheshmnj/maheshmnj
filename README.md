@@ -21,7 +21,7 @@
 - explore different technologies👨‍💻
 - read Self Help books📚
 - help People on stackoverflow
-- share my knowledge by writing blogs on Medium
+- share flutter experiences by writing blogs on Medium
 
 ## Online Presence
 
