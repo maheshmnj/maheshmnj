@@ -22,6 +22,10 @@
 - read Self Help books📚
 - help People on stackoverflow
 - share flutter experiences by writing blogs on Medium
+- contribute to open source
+
+### I am currently working on [Beautiful Snippet](https://github.com/maheshmnj/beautiful_snippet), A code snippet generation tool with flutter. 
+
 
 ## Online Presence
 
