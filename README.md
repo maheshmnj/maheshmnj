@@ -1,6 +1,6 @@
 ## About Me
 
-### Hi there 👋,I am Mahesh, I am a software developer💻, I build mobile📱 apps using Flutter.I love to build tools🛠️ for productivity and work on stuffs that really matters.
+### Hi there 👋,I am Mahesh, I am a software developer💻, I build mobile📱 apps using Flutter.I love to build tools🛠️ for productivity and I love to contribute to open source projects.
 
 
 <a href="https://github.com/maheshmnj/">
