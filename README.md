@@ -1,6 +1,6 @@
 ## About Me
 
-### Hi there 👋,I am Mahesh, I am a software developer💻, I build mobile📱 apps using Flutter.I love to build tools🛠️ for productivity and contribute to open source projects.
+### Hi there 👋,I am Mahesh, I am a software developer💻, I build mobile📱 apps using <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="24" height="24"/> </a>,</a> I love to build tools🛠️ for productivity and contribute to open source projects.
 
 
 <a href="https://github.com/maheshmnj/">
@@ -8,7 +8,7 @@
 </a> 
 
 ## Languages and Technologies
-- Programming Languages - dart,Javascript,Python,C++
+- Programming Languages - Dart,Javascript,Python,C++
 - Operating Systems - Linux, Windows, Mac OS, Android
 - Database - MySQL, MongoDB(basic), Neo4j(basic)
 - Frameworks and tools - Flutter,Firebase, Android,Bootstrap,VS Code,JavaFX,Corona Game Engine,
