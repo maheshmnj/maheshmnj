@@ -31,14 +31,14 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/maheshmnj?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)](https://twitter.com/maheshmnj)
 [![GitHub followers](https://img.shields.io/github/followers/maheshmnj?logo=GitHub&color=brown&style=for-the-badge)](https://github.com/maheshmnj)
-[![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/8253662?order=desc&sort=reputation&color=red&site=stackoverflow?style=plastic)](https://stackoverflow.com/users/8253662/maheshmnj)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=github.maheshmnj&title=VisitorsCount)
+### Stackoverflow stats 
+
+[![Mahesh's StackOverflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=8253662&layout=compact)](https://stackoverflow.com/users/8253662/mahesh-jamdade)
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
  
-
 <!--
 **maheshmnj/maheshmnj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
