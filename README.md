@@ -12,7 +12,7 @@ I am Mahesh, I am an OSS Engineer (Flutter and FlutterFire), In my spare time I 
 - Programming Languages - Dart,Javascript,Python,C++
 - Operating Systems - Linux, Windows, Mac OS, Android
 - Database - MySQL, MongoDB(basic), Neo4j(basic)
-- Frameworks and tools - Flutter,Firebase, Android,Bootstrap,VS Code,JavaFX,Corona Game Engine,
+- Frameworks and tools - Flutter,Firebase, Android,Bootstrap,VS Code,JavaFX,Solar2d Game Engine,
 - Others - Git,GitHub,Jira
 - Testing: unit tests,integration tests,widget tests,BDD
 
