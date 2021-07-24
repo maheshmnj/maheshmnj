@@ -28,7 +28,7 @@ I am Mahesh, I am an OSS Engineer (Flutter and FlutterFire), In my spare time I 
 ### I am currently working on [Beautiful Snippet](https://github.com/maheshmnj/beautiful_snippet), A code snippet generation tool with flutter. 
 
 
-## Online Presence
+### Lets Connect
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/maheshmnj?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)](https://twitter.com/maheshmnj)
 [![GitHub followers](https://img.shields.io/github/followers/maheshmnj?logo=GitHub&color=brown&style=for-the-badge)](https://github.com/maheshmnj)
