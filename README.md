@@ -8,14 +8,6 @@ I am Mahesh, I am an OSS Engineer (Flutter and FlutterFire), In my spare time I 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maheshmnj&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mahesh's GitHub Stats" />
 </a> 
 
-## Languages and Technologies
-- Programming Languages - Dart,Javascript,Python,C++
-- Operating Systems - Linux, Windows, Mac OS, Android
-- Database - MySQL, MongoDB(basic), Neo4j(basic)
-- Frameworks and tools - Flutter,Firebase, Android,Bootstrap,VS Code,JavaFX,Solar2d Game Engine,
-- Others - Git,GitHub,Jira
-- Testing: unit tests,integration tests,widget tests,BDD
-
 ## Interests
 
 #### I Love to
