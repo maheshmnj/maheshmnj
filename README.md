@@ -1,7 +1,7 @@
 ## About Me
 
 ### Hi there 👋, 
-I am Mahesh, I am an OSS Engineer (Flutter), In my spare time I build mobile📱 apps using <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="24" height="24"/> </a>,</a> I love to build tools🛠️ for productivity and contribute to open source projects.
+I am Mahesh, I work on the triage team for Flutter, In my spare time I build mobile📱 apps using <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="24" height="24"/> </a>,</a> I love to build tools🛠️ for productivity and contribute to open source projects.
 
 
 <a href="https://github.com/maheshmnj/">
