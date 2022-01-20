@@ -1,7 +1,7 @@
 ## About Me
 
 ### Hi there 👋, 
-I am Mahesh, I work on the triage team for Flutter, In my spare time I build mobile📱 apps using <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="24" height="24"/> </a>,</a> I love to build tools🛠️ for productivity and contribute to open source projects.
+I am Mahesh, I work on the triage team for Flutter, In my spare time I build Apps using  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="18" height="18"/> </a>,</a> I love to build tools for productivity and contribute to open source projects.
 
 
 <a href="https://github.com/maheshmnj/">
@@ -17,7 +17,7 @@ I am Mahesh, I work on the triage team for Flutter, In my spare time I build mob
 - share flutter experiences by writing blogs on Medium
 - contribute to open source
 
-### I am currently working on [Beautiful Snippet](https://github.com/maheshmnj/beautiful_snippet), A code snippet generation tool with flutter. 
+### I am currently working on a [Paint App](https://github.com/maheshmnj/Paint-Redesignedt) with flutter. 
 
 
 ### Lets Connect
