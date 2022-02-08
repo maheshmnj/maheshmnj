@@ -17,7 +17,7 @@ I am Mahesh, I work on the triage team for Flutter, In my spare time I build App
 - share flutter experiences by writing blogs on Medium
 - contribute to open source
 
-### I am currently working on a [Paint App](https://github.com/maheshmnj/Paint-Redesigned) with flutter. 
+### I am currently working on a [Furdle (Flutter + Wordle)](https://github.com/maheshmnj/furdle) 
 
 
 ### Lets Connect
