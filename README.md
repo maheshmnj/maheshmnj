@@ -23,8 +23,8 @@ I am Mahesh, I work on the triage team for Flutter, In my spare time I build App
 ### Lets Connect
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/maheshmnj?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)](https://twitter.com/maheshmnj)
-[![GitHub followers](https://img.shields.io/github/followers/maheshmnj?logo=GitHub&color=brown&style=for-the-badge)](https://github.com/maheshmnj)
-
+<!-- [![GitHub followers](https://img.shields.io/github/followers/maheshmnj?logo=GitHub&color=brown&style=for-the-badge)](https://github.com/maheshmnj)
+ -->
 ### Stackoverflow stats 
 
 [![Mahesh's StackOverflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=8253662&layout=compact)](https://stackoverflow.com/users/8253662/mahesh-jamdade)
