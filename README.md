@@ -18,7 +18,7 @@ I am Mahesh, I work on the triage team for Flutter, In my spare time I build App
 - share flutter experiences by writing blogs on Medium
 - contribute to open source
 
-### I am currently working on [Furdle (Flutter + Wordle)](https://github.com/maheshmnj/furdle) 
+### Recently, I built [Furdle (Flutter + Wordle)](https://github.com/maheshmnj/furdle)
 
 
 ### Lets Connect
