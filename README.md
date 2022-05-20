@@ -12,26 +12,36 @@ I am Mahesh, I work on the triage team for Flutter, In my spare time I build App
 ## Interests
 
 #### I Love to
-- explore different technologies👨‍💻
+<!-- - explore different technologies👨‍💻 -->
+- Contribute to open source
 - read Self Help books📚
 - help People on stackoverflow
 - share flutter experiences by writing blogs on Medium
-- contribute to open source
 
-### Recently, I built [Furdle (Flutter + Wordle)](https://github.com/maheshmnj/furdle)
+##### Open source Apps I built in 2022
+
+- [Paint Redesigned](https://github.com/maheshmnj/Paint-Redesigned)
+- [Furdle (Flutter + Wordle)](https://github.com/maheshmnj/furdle)
+- [Pastelog](https://github.com/maheshmnj/Pastelog)
+- In Progress
+
 
 
 ### Lets Connect
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/maheshmnj?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)](https://twitter.com/maheshmnj)
+<a href="https://twitter.com/maheshmnj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maheshmnj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maheshjamdade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mahesh Jamdade" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8253662/mahesh-jamdade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12486985/asif-syeed" height="30" width="40" /></a>
+
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/maheshmnj?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)](https://twitter.com/maheshmnj) -->
 <!-- [![GitHub followers](https://img.shields.io/github/followers/maheshmnj?logo=GitHub&color=brown&style=for-the-badge)](https://github.com/maheshmnj)
  -->
-### Stackoverflow stats 
+<!-- ### Stackoverflow stats  -->
 
-[![Mahesh's StackOverflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=8253662&layout=compact)](https://stackoverflow.com/users/8253662/mahesh-jamdade)
+<!-- [![Mahesh's StackOverflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=8253662&layout=compact)](https://stackoverflow.com/users/8253662/mahesh-jamdade)
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding) -->
  
 <!--
 **maheshmnj/maheshmnj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
