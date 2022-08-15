@@ -18,7 +18,7 @@ I am Mahesh, I work on the triage team for Flutter, In my spare time I build ope
 - help People on stackoverflow
 - share flutter experiences by writing blogs on Medium
 
-##### Open source Apps I built in 2022
+### Open source Apps I built in 2022
 
 - [Paint Redesigned](https://github.com/maheshmnj/Paint-Redesigned)
 - [Furdle (Flutter + Wordle)](https://github.com/maheshmnj/furdle)
@@ -26,12 +26,12 @@ I am Mahesh, I work on the triage team for Flutter, In my spare time I build ope
 - In Progress
 
 
-
+<!-- 
 ### Lets Connect
 
 <a href="https://twitter.com/maheshmnj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maheshmnj" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/maheshjamdade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mahesh Jamdade" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8253662/mahesh-jamdade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12486985/asif-syeed" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8253662/mahesh-jamdade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12486985/asif-syeed" height="30" width="40" /></a>-->
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/maheshmnj?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)](https://twitter.com/maheshmnj) -->
 <!-- [![GitHub followers](https://img.shields.io/github/followers/maheshmnj?logo=GitHub&color=brown&style=for-the-badge)](https://github.com/maheshmnj)
@@ -42,18 +42,4 @@ I am Mahesh, I work on the triage team for Flutter, In my spare time I build ope
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding) -->
- 
-<!--
-**maheshmnj/maheshmnj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ReactJs
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
