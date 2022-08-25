@@ -2,7 +2,7 @@
 
 ### Hi there,
 
-I am Mahesh, I work on the triage team for Flutter, In my spare time I build open source softwares. I love to build tools for productivity and contribute to open source projects.
+I am Mahesh, I build open source softwares. I love to build tools for productivity and contribute to open source projects.
 
 
 <a href="https://github.com/maheshmnj/">
