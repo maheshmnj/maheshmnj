@@ -2,7 +2,7 @@
 
 ### Hi there,
 
-I am Mahesh, I build open source softwares. I love to build tools for productivity and contribute to open source projects.
+I am Mahesh, I build open-source softwares. I love to build tools for productivity and contribute to open-source projects.
 
 
 <a href="https://github.com/maheshmnj/">
@@ -16,10 +16,11 @@ I am Mahesh, I build open source softwares. I love to build tools for productivi
 - Contribute to open source
 - read Self Help books📚
 - help People on stackoverflow
-- share flutter experiences by writing blogs on Medium
+- share my experiences on medium
 
-### _[Open source packages I maintain](https://pub.dev/publishers/maheshjamdade.com/packages)_
+[![An image of @maheshmnj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maheshmnj)](https://holopin.io/@maheshmnj)
 
+### Check out flutter packages I maintain on [Pub dev](https://pub.dev/publishers/maheshjamdade.com/packages)
 
 <!-- 
 ### Lets Connect
@@ -31,10 +32,9 @@ I am Mahesh, I build open source softwares. I love to build tools for productivi
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/maheshmnj?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)](https://twitter.com/maheshmnj) -->
 <!-- [![GitHub followers](https://img.shields.io/github/followers/maheshmnj?logo=GitHub&color=brown&style=for-the-badge)](https://github.com/maheshmnj)
  -->
-<!-- ### Stackoverflow stats  -->
+### Stackoverflow stats
 
-<!-- [![Mahesh's StackOverflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=8253662&layout=compact)](https://stackoverflow.com/users/8253662/mahesh-jamdade)
+[![Mahesh's StackOverflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=8253662&layout=compact)](https://stackoverflow.com/users/8253662/mahesh-jamdade)
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding) -->
-
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding) 
