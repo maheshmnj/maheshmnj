@@ -18,6 +18,8 @@ I am Mahesh, I build open-source softwares. I love to build tools for productivi
 - help People on stackoverflow
 - share my experiences on medium
 
+### Digital Badges
+
 [![An image of @maheshmnj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maheshmnj)](https://holopin.io/@maheshmnj)
 
 ### Check out flutter packages I maintain on [Pub dev](https://pub.dev/publishers/maheshjamdade.com/packages)
